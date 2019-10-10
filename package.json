@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "build": "echo This program does not need to build",
+        "start": "node 0831lab.js"
+    }
+}
