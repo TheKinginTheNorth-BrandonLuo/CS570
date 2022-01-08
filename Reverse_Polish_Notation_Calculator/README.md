@@ -1,4 +1,4 @@
-Implement the RPN calculator pseudo-code supplied in the lecture as real code. Program includes:
+This work implements the RPN calculator pseudo-code supplied in the lecture as real code. Program includes:
 
 1. Prompt the user for an infix math problem.
 2. Convert the problem to postfix.
