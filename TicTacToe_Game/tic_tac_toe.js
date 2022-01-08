@@ -2,8 +2,8 @@
 *
 * Assignment 1: Tic Tac Toe
 *
-* Auther: Kun Wu & Luo Fan
-* Date: 09/10
+* Auther: Fan Luo
+* Date: 09/10/2018
 *
 ***************/
 
