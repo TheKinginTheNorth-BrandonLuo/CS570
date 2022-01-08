@@ -1,0 +1,8 @@
+{
+    "name": "Huffman_Code",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "echo Building Success",
+        "start": "node huffman.js"
+    }
+}
