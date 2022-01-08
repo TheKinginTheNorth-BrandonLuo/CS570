@@ -1,0 +1,11 @@
+{
+    "name": "RPN",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "echo Building Success",
+        "start": "node rpn_calculator.js"
+    },
+    "dependencies": {
+        "readline-sync": "^1.4.9"
+    }
+}
