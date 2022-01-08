@@ -2,7 +2,7 @@
 *
 * Assignment#2 Reverse Polish Notation
 *
-* Auther: Kun Wu & Luo Fan & Yiwei Xiang
+* Auther: Fan Luo
 * Date: 10/10/2018
 *
 ********************/
