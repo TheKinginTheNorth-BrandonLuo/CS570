@@ -1,0 +1,11 @@
+{
+  "name": "Tire_Article",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Building Success",
+    "start": "node link_state_routing.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
