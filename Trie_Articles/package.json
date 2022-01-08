@@ -1,0 +1,12 @@
+{
+  "name": "Tire_Article",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Building Success",
+    "start": "node tire_article.js"
+  },
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "readline-sync": "^1.4.9"
+  }
+}
