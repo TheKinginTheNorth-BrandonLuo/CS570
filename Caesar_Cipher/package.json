@@ -1,0 +1,8 @@
+{
+    "name": "CaesarCipher",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "echo Building Success",
+        "start": "node caesar_cipher.js"
+    }
+}
