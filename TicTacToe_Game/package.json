@@ -1,0 +1,11 @@
+{
+    "name": "Tic_Tac_Toe",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "echo Building Success",
+        "start": "node tic_tac_toe.js"
+    },
+    "dependencies": {
+        "readline-sync": "^1.4.9"
+    }
+}
