@@ -1,0 +1,8 @@
+{
+    "name": "BFS",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "echo Building Success",
+        "start": "node bfs.js"
+    }
+}
