@@ -1,0 +1,8 @@
+{
+    "name": "Advanced_FizzBuzz",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "echo Building Success",
+        "start": "node FizzBuzzer.js"
+    }
+}
