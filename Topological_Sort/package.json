@@ -1,0 +1,8 @@
+{
+    "name": "Topological_Sort",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "echo Building Success",
+        "start": "node topological_sort.js"
+    }
+}
