@@ -1,0 +1,8 @@
+{
+    "name": "Wrapper&Iterator Lab",
+    "version": "1.0.0",
+    "scripts": {
+        "npm install": "echo Building Success",
+        "npm start": "node WrapperIterator.js"
+    }
+}
