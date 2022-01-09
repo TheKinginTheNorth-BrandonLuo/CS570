@@ -1,0 +1,11 @@
+{
+    "name": "Sorted_Set",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "echo Building Success",
+        "start": "node sorted_set.js"
+    },
+    "dependencies": {
+        "readline-sync": "^1.4.9"
+    }
+}
